@@ -1,0 +1,12 @@
+MURCIELAGO:Animal que tiene todas las vocales
+GRAVEDAD:Fuerza que nos atrae a la tierra
+ETC:Escribir tanto cansa
+AGUJERO NEGRO:Región finita del espacio en cuyo interior existe una concentración 
+	      de masa lo suficientemente elevada para generar un campo gravitatorio 
+	      tal que ninguna partícula material, ni siquiera la luz, puede escapar 
+	      de ella.
+NOVIA:Persona que mas quiero en este mundo a parte de mi mamá
+CHANCLA:La peor arma de una mamá
+OXIGENO:Elemento esencial para que viva un ser humano
+
+
